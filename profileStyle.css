@@ -1,0 +1,53 @@
+﻿body {
+    background-color: #790173;
+    color: rgb(29, 50, 104);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+    width: 80%;
+    margin: auto;
+    background-image: url("https://onlyvectorbackgrounds.com/wp-content/uploads/2018/09/Abstract-Ambient-Light-Background-Day-Blue.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    
+}
+h1{
+    color: #ff0000;
+}
+.box-1 {
+    background-color: antiquewhite;
+    border-top: 5px red solid;
+    border-bottom: 5px red solid;
+    border-left: 5px red solid;
+    border-right: 5px red solid;
+    align-content: center;
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+}
+    .box-1 h4 {
+        font-family: Tahoma;
+        font-weight: 800;
+        font-style: italic;
+        text-decoration: underline;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+    }
+.box-2 {
+    background-color: mistyrose;
+    border: 5px purple solid;
+    border-style: ridge;
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+}
+.box-3 {
+    
+    display: inline-block;
+}
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 15px;
+}
